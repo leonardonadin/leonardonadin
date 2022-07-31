@@ -31,7 +31,7 @@ And other tricks:
 
 I like accessibility insights and UI\UX areas.
 
-Current working on: <code>sudo apt update knowledge</code>
+Current working on: <code>sudo apt update knowledge</code><br />
 Now reading *Refactoring - Martin Fowler*
 
 
