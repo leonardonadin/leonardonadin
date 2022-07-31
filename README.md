@@ -1,6 +1,7 @@
 # Leonardo Nadin
 
-Hi, i'm Full Stack developer since 2014, working in websites, web apps, mobile apps and design tasks. I'm  Software House  work in various fields and many application types, 
+Hi, i'm Full Stack developer since 2014, working in websites, web apps, mobile apps and design tasks. I'm work in various fields and application types.
+
 I've experience with:
 - PHP
 - Laravel
@@ -14,7 +15,9 @@ I've experience with:
 - Boostrap
 - MySql
 - PostgreSql
+
 And other tricks:
+
 - Illustrator
 - Photoshop
 - Figma
