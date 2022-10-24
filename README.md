@@ -11,12 +11,15 @@ I've experience with:
 
 And other tricks:
 
-- Premiere
-- After Effects
 - Docker
 - Linux
 - Electron
 - Ionic
+- Java
+- Go
+- Python
+- Premiere
+- After Effects
 
 I like accessibility insights and UI\UX areas.
 
