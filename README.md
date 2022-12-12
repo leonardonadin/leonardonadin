@@ -1,6 +1,6 @@
 # Leonardo Nadin
 
-Hi, i'm Full Stack developer since 2014, working in websites, web apps, mobile apps and design tasks. I'm work in various fields and application types.
+Hi, i'm Full Stack developer, working in websites, web apps, mobile apps and design tasks. I'm work in various fields and application types.
 
 I've experience with:
 
@@ -24,6 +24,4 @@ And other tricks:
 I like accessibility insights and UI\UX areas.
 
 Working to become a Full Cycle developer<br />
-<code>sudo apt update knowledge</code><br /><br />
-Reading *Refactoring - Martin Fowler*
-
+<code>sudo apt update knowledge</code><br />
