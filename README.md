@@ -21,7 +21,5 @@ And other tricks:
 - Premiere
 - After Effects
 
-I like accessibility insights and UI\UX areas.
-
 Working to become a Full Cycle developer<br />
 <code>sudo apt update knowledge</code><br />
