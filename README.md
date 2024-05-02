@@ -5,7 +5,7 @@ Hi, i'm Full Stack developer, working in websites, web apps, mobile apps and des
 I've experience with:
 
 - Backend: PHP, Laravel, Zend 1, Node.js, Express
-- Frontend: JavaScript, Vue, React, Angular.js, NuxtJs, Bootstrap
+- Frontend: JavaScript, Vue, React, Angular.js, NuxtJs, Bootstrap, Scss, Css, Js, JQuery
 - Database: MySql, PostgreSql, Firebird, SQLServer
 - Search engines: Algolia, Meilisearch, Typesense
 - Web Design, UI, et al.: Illustrator, Photoshop, Figma, Adobe XD
