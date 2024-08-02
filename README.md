@@ -23,5 +23,5 @@ And other tricks:
 - Python
 - SQLServer
 
-Working to become a Full Cycle developer<br />
+
 <code>sudo apt update knowledge</code><br />
